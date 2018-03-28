@@ -4,12 +4,6 @@
  *  Created on: Mar 19, 2018
  *      Author: wei
  */
-/*
- * artik_adc.c
- *
- *  Created on: Feb 13, 2018
- *      Author: wei
- */
 
 #include <stdio.h>
 #include <string.h>
